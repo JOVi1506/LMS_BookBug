@@ -1,0 +1,27 @@
+
+h1 {
+    padding: 75px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font: 45px Calibri;
+  }
+
+h2 {
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font: 20px Calibri;
+}
+  
+  a {
+    padding: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font: 16px Calibri;
+    font-weight: bold;
+  }
+
+  

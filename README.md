@@ -56,7 +56,7 @@
    - Update the database connection settings with your `phpMyAdmin` credentials.
 
 5. **Run the Application**:
-   - Open a browser and navigate to `http://localhost/trial470/LMS/indexX.php` to access the user version of the website or `http://localhost/trial470/LMS/indexAX.php` to access the admin version of the website.
+   - Open a browser and navigate to `http://localhost/trial470/LMS/indexX.php` to access the user version of the website or `http://localhost/trial470/LMS/admloginX.php` to access the admin version of the website.
 
 ## How to Use
 

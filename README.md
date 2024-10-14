@@ -114,7 +114,7 @@
 
 ![Sales_History_Adm](https://github.com/user-attachments/assets/74f6d054-54f8-417e-84b9-8cc4232dec7c)
 
-![Active Rents_Adm](https://github.com/user-attachments/assets/f2065367-1793-46fd-a855-840d2120be71)
+![Active Rents_Adm](https://github.com/user-attachments/assets/1d2b21d2-b090-4a0f-bc1d-c0e213949ce5)
 
 ![Rent History_Adm](https://github.com/user-attachments/assets/448af926-8722-443c-a8f4-558824d3ad0b)
 
@@ -132,4 +132,5 @@
 ![DT5](https://github.com/user-attachments/assets/49f12c4f-3526-47af-bec6-62c2edb8a9c8)
 
 ![DT6](https://github.com/user-attachments/assets/e08f9d0a-06a2-40c1-b057-22dbec418315)
+
 

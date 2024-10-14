@@ -49,7 +49,7 @@
 3. **Configure phpMyAdmin**:
    - Open [phpMyAdmin](http://localhost/phpmyadmin).
    - Create a new database named `library`.
-   - Import the provided SQL file from the `/database` folder to set up the necessary tables.
+   - Import the provided SQL file `library.sql` to set up the necessary tables.
 
 4. **Configure Database Connection**:
    - In the project directory, locate the `db.php` file.

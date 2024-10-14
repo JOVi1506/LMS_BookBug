@@ -72,7 +72,7 @@
 3. **Update Book Inventory**: Admins can add, update, or remove books from the system as needed.
 4. **Monitor Dues & Fines**: Keep track of outstanding dues and fines for all users.
 
-##Screenshots
+## Screenshots
 
 ### User Version of Website:
 ![Homepage_U](https://github.com/user-attachments/assets/32e8bc1a-8d4d-4f35-b5ec-e65cceff0890)
